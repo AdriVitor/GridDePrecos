@@ -1,0 +1,43 @@
+ .divOne {
+  background-color: white;
+  height: 500px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  position: absolute;
+  top: 15%;
+  left: 28%;
+  border-radius: 10px;
+}
+
+#container {
+  background-image: url('https://images-americanas.b2w.io/produtos/2736857891/imagens/papel-de-parede-adesivo-formas-geometricas-em-tons-predominantes-de-azul-branco-e-cinza/2736857891_1_xlarge.jpg');
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-size:cover; width:auto;
+     background-position:50% 50%;
+}
+
+ #title {
+  margin-right: 10px;
+  color: rgb(21, 161, 161);
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+#sub-title {
+  color: rgb(138, 199, 46);
+  padding-left: 40px;
+  padding-bottom: 7px;
+}
+
+p {
+  color: dimgrey;
+  padding-left: 40px;
+  padding-right: 70px;
+  padding-bottom: 20px;
+}

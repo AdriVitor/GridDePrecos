@@ -1,0 +1,17 @@
+#divThree{
+  background-color: rgb(66, 182, 182);
+  height: 295px;
+  width: 400px;
+  padding-top: 17px;
+  color: white;
+  border-radius: 0px 0px 10px 0px;
+}
+
+h5 {
+  padding-left: 40px;
+}
+
+p {
+  padding-left: 40px;
+  padding-right: 70px;
+}
